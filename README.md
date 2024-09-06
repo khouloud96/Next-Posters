@@ -13,6 +13,8 @@ It's based on NextJS:
 
 - create an account in https://cloudinary.com/ for free
 - npm install cloudinary
+  ![image](https://github.com/user-attachments/assets/57912b1d-ca6b-4e6d-9fab-1bc83781f446)
+
 - upload the cloudinary.js file which contains all the code needed to take an image file and uploaded to cloudinary into a folder named "next-posters-images"
 - add .env.local file in your root project folder in order to set up your environment variables related to cloudinary
 
