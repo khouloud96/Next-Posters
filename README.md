@@ -17,10 +17,13 @@ It's based on NextJS:
 - add .env.local file in your root project folder in order to set up your environment variables related to cloudinary
 
 
-## Preview
+# Preview
+## Home Page
 
 ![next-posters-0](https://github.com/user-attachments/assets/2810e323-383f-41c6-85e4-ba1117559a55)
+## /feed Page
 
 ![next-posters-1](https://github.com/user-attachments/assets/39d0376a-7c51-4be6-bcf8-64998832e679)
+## /new-post Page
 
 ![next-posters-2](https://github.com/user-attachments/assets/438b56ea-1312-4eb2-a2f2-0ff01b2512f6)
